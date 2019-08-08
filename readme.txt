@@ -1,1 +1,2 @@
 this file is used to learn to use the git
+the line 2 is added
